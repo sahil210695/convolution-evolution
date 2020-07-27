@@ -1,5 +1,5 @@
 # Convolution is Evolution 😎
-### This is to see how a kernel will convolve over image and what will be its output after convolution
+### This is to see how a kernel will convolve over an image and what will be its output after convolution
 
 #### Kernels that we are using:
 - **Horizontal** kernel will extract all *horizontal* edges
@@ -47,7 +47,7 @@ np.array([
 ![Edge Kernel](assets/e_krnl_output.jpg)
 
 #### UI
-We have created UI for this demo using **[Streamlit](https://www.streamlit.io/)**
+I have created UI for this demo using **[Streamlit](https://www.streamlit.io/)**
 
 - `pip install streamlit`
 - `streamlit run app.py`
